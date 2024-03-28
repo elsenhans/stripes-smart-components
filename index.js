@@ -76,6 +76,7 @@ export { default as EditCustomFieldsSettings } from './lib/CustomFields/pages/Ed
 export { default as EditCustomFieldsRecord } from './lib/CustomFields/pages/EditCustomFieldsRecord';
 export { default as ViewCustomFieldsRecord } from './lib/CustomFields/pages/ViewCustomFieldsRecord';
 export { default as useCustomFields } from './lib/CustomFields/utils/useCustomFields';
+export { default as CustomFieldsFilters } from './lib/CustomFields/components/CustomFieldsFilters';
 
 export * from './lib/ColumnManager';
 export * from './lib/utils';
